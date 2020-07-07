@@ -1,0 +1,46 @@
+{
+	"user": {
+		"id":1,
+		"name":"Brian Voong",
+		"username":"brianvoong"
+	},
+	"videos": [
+		{
+			"id":1,
+			"name":"Cat is sitting in the cage",
+			"link":"https://www.letsbuildthatapp.com/course/instagram-firebase",
+			"imageUrl":"https://engame.s3-ap-northeast-1.amazonaws.com/dev/images/question/Q1/1013+cage+look+sit+cat+anml+MY135_result.JPG",
+			"numberOfViews":20000,
+			"channel": {
+				"name":"Lets Build That App",
+				"profileImageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
+				"numberOfSubscribers":100000
+			}
+		},
+		{
+			"id":2,
+			"name":"Cat is lying down in the cage",
+			"link":"https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
+			"imageUrl":"https://engame.s3-ap-northeast-1.amazonaws.com/dev/images/question/Q1/1014+cage+sleep+lie+on+cat+anml+MY136_result.JPG",
+			"numberOfViews":5000,
+			"channel": {
+				"name":"Lets Build That App",
+				"profileImageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
+				"numberOfSubscribers":100000
+			}
+		},
+		{
+			"id":3,
+			"name":"Cat is cleaning its face",
+			"link":"https://www.letsbuildthatapp.com/basic-training",
+			"imageUrl":"https://engame.s3-ap-northeast-1.amazonaws.com/dev/images/question/Q1/1016+clean+on+mat+cat+anml+LK138_result.JPG",
+			"numberOfViews":7500,
+			"channel":{
+				"name":"Lets Build That App",
+				"profileImageUrl":"https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/dda5bc77-327f-4944-8f51-ba4f3651ffdf",
+				"numberOfSubscribers":100000
+			}
+		}
+		  ]
+	}
+}
